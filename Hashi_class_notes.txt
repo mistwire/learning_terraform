@@ -1,0 +1,9 @@
+Basic TF commands
+
+terraform version
+terraform help
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+

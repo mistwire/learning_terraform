@@ -1,3 +1,10 @@
+
+# This is a line comment
+
+/* this is a block 
+comment
+*/
+
 provider "aws" {
   region = var.region
 }
